@@ -63,7 +63,7 @@ The project uses Python for data cleaning and exploratory data analysis, Postgre
 - Subscription adoption remains a growth opportunity.
 
 ## Dashboard Preview
-
+![Power BI Dashboard](dashboard_screenshot.png)
 
 ---
 ## Project Structure
