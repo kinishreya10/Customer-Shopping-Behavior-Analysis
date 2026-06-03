@@ -1,4 +1,4 @@
-<img width="1840" height="943" alt="Dashboard" src="https://github.com/user-attachments/assets/14472f54-5584-4312-a341-f0dba1d5560d" /># Customer Shopping Behavior Analysis
+# Customer Shopping Behavior Analysis
 ## Project Overview
 This project analyzes customer shopping behavior using transactional retail data. The objective is to identify purchasing patterns, customer preferences, spending habits, and business opportunities through data analysis and visualization.
 
@@ -6,7 +6,6 @@ The project uses Python for data cleaning and exploratory data analysis, Postgre
 
 ---
 ## Dataset Information
-
 - Total Records: 3,900
 - Features: 18
 - Data Type: Customer Shopping Transactions
@@ -23,7 +22,6 @@ The project uses Python for data cleaning and exploratory data analysis, Postgre
 
 ---
 ## Tools & Technologies
-
 - Python
 - Pandas
 - NumPy
@@ -64,14 +62,8 @@ The project uses Python for data cleaning and exploratory data analysis, Postgre
 - Top-rated products included Gloves, Sandals, and Boots.
 - Subscription adoption remains a growth opportunity.
 
----
 ## Dashboard Preview
-
-
-
-
-
-
+<img width="1840" height="943" alt="Dashboard" src="https://github.com/user-attachments/assets/14472f54-5584-4312-a341-f0dba1d5560d" />
 
 ---
 ## Project Structure
@@ -94,4 +86,6 @@ Customer-Shopping-Behavior-Analysis/
 ---
 ## Author
 Shreya Kini
-Aspiring Data Analyst
+B.Tech in Artificial Intelligence & Machine Learning
+Interested in Data Analytics, Business Intelligence, and Data Visualization.
+Skills: SQL, Python, Power BI, Excel, PostgreSQL
