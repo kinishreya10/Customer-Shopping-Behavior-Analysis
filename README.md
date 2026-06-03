@@ -63,7 +63,7 @@ The project uses Python for data cleaning and exploratory data analysis, Postgre
 - Subscription adoption remains a growth opportunity.
 
 ## Dashboard Preview
-<img width="1840" height="943" alt="Dashboard" src="https://github.com/user-attachments/assets/14472f54-5584-4312-a341-f0dba1d5560d" />
+
 
 ---
 ## Project Structure
