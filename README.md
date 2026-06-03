@@ -63,6 +63,7 @@ The project uses Python for data cleaning and exploratory data analysis, Postgre
 - Subscription adoption remains a growth opportunity.
 
 ## Dashboard Preview
+## Customer_Behavior_Analysis
 ![Power BI Dashboard](dashboard_screenshot.png)
 
 ---
@@ -73,7 +74,7 @@ Customer-Shopping-Behavior-Analysis/
 ├── Customer_Behaviour_Analysis.ipynb
 ├── customer_behavior_analysis.sql
 ├── README.md
-├── dashboard_screenshot.png
+|__ dashboard_screenshot.png
 
 ---
 ## Future Improvements
